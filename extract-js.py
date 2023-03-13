@@ -23,4 +23,4 @@ for item in sortedlist:
 
 
 
-f.close() # close the file when finished
+f.close() # close the file when done
